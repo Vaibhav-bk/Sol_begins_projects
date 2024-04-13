@@ -20,4 +20,4 @@ Make sure to watch the tutorials properly with an implementaion of the project. 
 Vaibhav Borkar
 
 ## License
-This project is unlincenced.
+This project is unlicenced.
